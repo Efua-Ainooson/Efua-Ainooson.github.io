@@ -1,23 +1,51 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to My Portfolio",
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "My Portfolio",
     "section": "",
-    "text": "🌟 I’m passionate about statistics, biostatistics, and machine learning.\n🚀 I love working with data, simulations, and research.\n📊 Check out my latest projects below!\n\n\n\n\n🧬 RNA-seq Analysis - Using STAR for alignment\n📈 Survival Analysis - Kaplan-Meier methods\n🎯 Bayesian Machine Learning - Empirical Bayes models"
-  },
-  {
-    "objectID": "index.html#my-projects",
-    "href": "index.html#my-projects",
-    "title": "Welcome to My Portfolio",
-    "section": "",
-    "text": "🧬 RNA-seq Analysis - Using STAR for alignment\n📈 Survival Analysis - Kaplan-Meier methods\n🎯 Bayesian Machine Learning - Empirical Bayes models"
+    "text": "📊 My Statistics & Data Science Portfolio"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome to my personal website! I am a graduate student in statistics, passionate about biostatistics, Bayesian methods, and computational statistics.\n\n\n📊 Survival Analysis – Exploring statistical models for time-to-event data.\n🧬 Precision Medicine – Using data-driven approaches for personalized healthcare.\n🎯 Bayesian Machine Learning – Applying Empirical Bayes and nonparametric models.\n\n\n\n\n🎓 Master’s in Statistics (In Progress)\n\n💻 Programming Languages: R, Python, Quarto\n\n📈 Data Science Tools: ggplot2, tidyverse, LASSO regression, penalized logistic regression\n\n\n\n\nI started my journey in data science and statistics with a love for mathematical modeling. Over time, I have worked on projects involving Monte Carlo simulations, logistic regression, and high-dimensional data analysis."
+  },
+  {
+    "objectID": "about.html#my-research-interests",
+    "href": "about.html#my-research-interests",
+    "title": "About Me",
+    "section": "",
+    "text": "📊 Survival Analysis – Exploring statistical models for time-to-event data.\n🧬 Precision Medicine – Using data-driven approaches for personalized healthcare.\n🎯 Bayesian Machine Learning – Applying Empirical Bayes and nonparametric models."
+  },
+  {
+    "objectID": "about.html#education-skills",
+    "href": "about.html#education-skills",
+    "title": "About Me",
+    "section": "",
+    "text": "🎓 Master’s in Statistics (In Progress)\n\n💻 Programming Languages: R, Python, Quarto\n\n📈 Data Science Tools: ggplot2, tidyverse, LASSO regression, penalized logistic regression"
+  },
+  {
+    "objectID": "about.html#my-data-journey",
+    "href": "about.html#my-data-journey",
+    "title": "About Me",
+    "section": "",
+    "text": "I started my journey in data science and statistics with a love for mathematical modeling. Over time, I have worked on projects involving Monte Carlo simulations, logistic regression, and high-dimensional data analysis."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome | Statistics & Data",
+    "section": "",
+    "text": "I’m passionate about statistics, biostatistics, and machine learning.\nI specialize in …\nLet’s explore the world of data together!\n\n\n\nSee My Work"
+  },
+  {
+    "objectID": "index.html#data-portfolio",
+    "href": "index.html#data-portfolio",
+    "title": "Welcome | Statistics & Data",
+    "section": "",
+    "text": "See My Work"
   }
 ]

@@ -1,9 +1,24 @@
 ---
-title: "About"
+title: "About Me"
+format: html
 ---
 
-About this site
+# 🌸 Hi, I'm Efua Ainooson! 🎀
 
-```{r}
-1 + 1
-```
+Welcome to my personal website! I am a **graduate student in statistics**, passionate about **biostatistics, Bayesian methods, and computational statistics**.
+
+## ✨ My Research Interests
+📊 **Survival Analysis** – Exploring statistical models for time-to-event data.  
+🧬 **Precision Medicine** – Using data-driven approaches for personalized healthcare.  
+🎯 **Bayesian Machine Learning** – Applying Empirical Bayes and nonparametric models.
+
+## 🎓 Education & Skills
+- 🎓 **Master’s in Statistics** (In Progress)  
+- 💻 **Programming Languages:** R, Python, Quarto  
+- 📈 **Data Science Tools:** ggplot2, tidyverse, LASSO regression, penalized logistic regression  
+
+## 📌 My Data Journey 📊
+I started my journey in **data science and statistics** with a love for **mathematical modeling**. Over time, I have worked on projects involving **Monte Carlo simulations, logistic regression, and high-dimensional data analysis**.
+
+## 📈 Data Summary in R
+

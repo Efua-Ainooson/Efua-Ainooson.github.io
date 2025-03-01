@@ -1,17 +1,14 @@
 ---
-title: "Welcome to My Portfolio"
+title: "Welcome | Statistics & Data"
 format: html
 ---
 
-# Hi, I'm Efua Ainooson 👋
+# Hi, I'm Efua Ainooson 
 
-🌟 I'm passionate about **statistics, biostatistics, and machine learning**.  
-🚀 I love working with **data, simulations, and research**.  
-📊 Check out my latest projects below!
+ I'm passionate about **statistics, biostatistics, and machine learning**.  
+ I specialize in ...  
+ Let's explore the world of data together!
 
 ---
-
-## My Projects
-- 🧬 **RNA-seq Analysis** - Using STAR for alignment
-- 📈 **Survival Analysis** - Kaplan-Meier methods
-- 🎯 **Bayesian Machine Learning** - Empirical Bayes models
+## **Data Portfolio 📊**
+[See My Work](portfolio.qmd)

@@ -2,21 +2,23 @@ project:
   type: website
   output-dir: docs
 
-
 website:
-  title: "Efua Ainooson's Portfolio"
+  title: "Efua Ainooson Noonoo"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: about.qmd
         text: About
-      - href: projects.qmd
-        text: Projects
+      - href: portfolio.qmd
+        text: Portfolio
       - href: blog.qmd
         text: Blog
       - href: contact.qmd
         text: Contact
+  page-footer:
+    left: "© 2024 Efua Ainooson"
+    right: "Powered by Quarto"
 
 format:
   html:
@@ -24,6 +26,4 @@ format:
       light: minty
       dark: darkly
     css: styles.css
-    
-    
-  
+    toc: true

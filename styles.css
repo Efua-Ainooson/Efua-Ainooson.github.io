@@ -1,55 +1,63 @@
-/* css styles */
-
-/* Beautiful Fonts */
+/* 🌸 Feminine Color Palette */
 body {
-    font-family: 'Poppins', sans-serif;
-    color: #333;
-    background-color: #fdfdfd;
+    font-family: 'Lora', serif;
+    color: #444;
+    background: linear-gradient(to right, #FFC0CB, #FFF1F7); /* Soft Pink */
 }
 
-/* Custom Navbar */
+/* 💜 Navbar Customization */
 .navbar {
-    background-color: #3b5998 !important;  /* Facebook Blue */
+    background-color: #C7A2DD !important; /* Lavender */
+    border-radius: 15px;
+    padding: 10px;
 }
 
-/* Links */
+/* 📊 Links & Hover Effects */
 a {
-    color: #d63384;  /* A nice pink */
+    color: #C71585; /* Deep Pink */
     font-weight: bold;
+    transition: 0.3s;
 }
 
 a:hover {
-    color: #ff4500;  /* Orange hover effect */
+    color: #800080; /* Purple */
+    text-decoration: underline;
 }
 
-/* Buttons */
+/* 🎀 Stylish Buttons */
 button, .btn {
-    background-color: #ff6600;
+    background-color: #FF69B4; /* Hot Pink */
     color: white;
-    padding: 10px 15px;
-    border-radius: 10px;
-}
-
-button:hover, .btn:hover {
-    background-color: #cc5500;
-}
-
-/* Beautiful Headers */
-h1, h2, h3 {
-    font-family: 'Montserrat', sans-serif;
+    padding: 10px 20px;
+    border-radius: 25px;
     font-weight: bold;
 }
 
-/* Footer */
+button:hover, .btn:hover {
+    background-color: #DB7093; /* Soft Pink */
+}
+
+/* 📌 Stylish Headers */
+h1, h2, h3 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    color: #6A0572; /* Purple */
+}
+
+/* 📊 Data Visualization Section */
+.chart-container {
+    background: #FFF5EE; /* Soft peach background */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.1);
+}
+
+/* 🌙 Footer Styling */
 footer {
-    background-color: #222;
-    color: white;
+    background: #EEC9A4; /* Gold Beige */
+    color: #222;
     text-align: center;
     padding: 15px;
     font-size: 14px;
+    border-radius: 15px;
 }
-
-
-
-
-
