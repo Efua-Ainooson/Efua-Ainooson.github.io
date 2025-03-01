@@ -3,12 +3,23 @@ title: "Welcome | Statistics & Data"
 format: html
 ---
 
-# Hi, I'm Efua Ainooson 
 
- I'm passionate about **statistics, biostatistics, and machine learning**.  
- I specialize in ...  
- Let's explore the world of data together!
+![Efua Ainooson](profile.jpg){width=150px style="border-radius: 50%; display: block; margin-left: auto; margin-right: auto;"}
 
----
-## **Data Portfolio 📊**
-[See My Work](portfolio.qmd)
+
+🌸 Hey there! I'm Efua Ainooson.
+Welcome to my little corner of the internet.
+I’m a statistics enthusiast, a data storyteller, and a firm believer that good models (both statistical and fashion-related) make life better.
+I’m a graduate student in statistics. I love the thrill of solving complex problems, the beauty of a well-structured dataset, and the satisfaction of turning numbers into insights that actually matter.
+
+Outside of work, I’m a curious learner, a fan of deep conversations, and a lover of beautiful, clean designs (because why shouldn’t data look good too?). Oh, and I absolutely love discovering creative ways to blend statistics, machine learning, and storytelling.
+
+So go ahead—poke around, check out my work(portfolio.qmd), and let’s chat about all things stats, data, and life!
+
+
+[![Gmail](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/google.svg){width=30px}](mailto:your.maameefuaainooson@gmail.com)
+
+[![GitHub](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/github.svg){width=30px}](https://github.com/Efua-Ainooson)  
+
+[![LinkedIn](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/linkedin.svg){width=30px}](https://www.linkedin.com/in/efua-ainooson-8257a3167/)  
+
