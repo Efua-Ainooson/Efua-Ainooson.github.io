@@ -2,12 +2,12 @@
 body {
     font-family: 'Lora', serif;
     color: #444;
-    background: linear-gradient(to right, #FFC0CB, #FFF1F7); /* Soft Pink */
+    background: linear-gradient(to right,  #FFF1F7,#ffffff); /* Soft Pink */
 }
 
 /* 💜 Navbar Customization */
 .navbar {
-    background-color: #C7A2DD !important; /* Lavender */
+    background-color: #6d2da8 !important; /* Lavender */
     border-radius: 15px;
     padding: 10px;
 }
