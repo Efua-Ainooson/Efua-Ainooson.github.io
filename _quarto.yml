@@ -1,19 +1,29 @@
 project:
   type: website
+  output-dir: docs
+
 
 website:
-  title: "Efua-Ainooson.github.io"
+  title: "Efua Ainooson's Portfolio"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+      - href: blog.qmd
+        text: Blog
+      - href: contact.qmd
+        text: Contact
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: minty
+      dark: darkly
     css: styles.css
-    toc: true
-
-
-
+    
+    
+  

@@ -1,11 +1,17 @@
 ---
-title: "Efua-Ainooson.github.io"
+title: "Welcome to My Portfolio"
+format: html
 ---
 
-This is a Quarto website.
+# Hi, I'm Efua Ainooson 👋
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+🌟 I'm passionate about **statistics, biostatistics, and machine learning**.  
+🚀 I love working with **data, simulations, and research**.  
+📊 Check out my latest projects below!
 
-```{r}
-1 + 1
-```
+---
+
+## My Projects
+- 🧬 **RNA-seq Analysis** - Using STAR for alignment
+- 📈 **Survival Analysis** - Kaplan-Meier methods
+- 🎯 **Bayesian Machine Learning** - Empirical Bayes models
