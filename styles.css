@@ -1,0 +1,24 @@
+/* 🌸 Custom Colors for Pulse */
+body {
+    font-family: 'Poppins', sans-serif;
+    color: #444;
+    background: linear-gradient(to right, #FFC0CB, #FFF1F7); /* Soft Pink */
+}
+
+/* 💜 Navbar Styling */
+.navbar {
+    background-color: #ff7eb6 !important; /* Pulse pink */
+    border-radius: 15px;
+    padding: 10px;
+}
+
+/* 📌 Buttons */
+button, .btn {
+    background-color: #ff007f; /* Vibrant pink */
+    color: white;
+    border-radius: 25px;
+}
+
+button:hover, .btn:hover {
+    background-color: #db0070;
+}
