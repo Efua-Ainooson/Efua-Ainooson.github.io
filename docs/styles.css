@@ -2,12 +2,12 @@
 body {
     font-family: 'Poppins', sans-serif;
     color: #444;
-    background: linear-gradient(to right, #FFC0CB, #FFF1F7); /* Soft Pink */
+    background: linear-gradient(to right, #FFF1F7, #ffffff); /* Soft Pink */
 }
 
 /* 💜 Navbar Styling */
 .navbar {
-    background-color: #ff7eb6 !important; /* Pulse pink */
+    background-color: #9003d3 !important; /* Pulse pink */
     border-radius: 15px;
     padding: 10px;
 }
