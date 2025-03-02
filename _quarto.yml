@@ -13,12 +13,10 @@ website:
       - href: portfolio.qmd
         text: Portfolio
       - href: blog.qmd
-        text: Blog
-      - href: contact.qmd
-        text: Contact
+        text: Random Thoughts
   page-footer:
     left: "© 2024 Efua Ainooson"
-    right: "Powered by Quarto"
+
 
 format:
   html:
