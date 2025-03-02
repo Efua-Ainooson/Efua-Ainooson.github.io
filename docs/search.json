@@ -4,28 +4,28 @@
     "href": "portfolio.html",
     "title": "Portfolio",
     "section": "",
-    "text": "Comparative Study of Regularization Techniques in Logistic Regression\n\n\n\n\nProject Overview\nThe primary objective of this project is to analyze a leukemia gene expression dataset using various penalized regression methods. The analysis applies Lasso, Ridge, and Elastic Net to identify the most significant genes associated with leukemia and to develop robust logistic regression models for classifying leukemia subtypes.\n\n Download Full Report"
+    "text": "Comparative Study of Regularization Techniques in Logistic Regression\n\n\n\nProject Overview\n\n\nThe primary objective of this project is to analyze a leukemia gene expression dataset using various penalized regression methods. The analysis applies Lasso, Ridge, and Elastic Net to identify the most significant genes associated with leukemia and to develop robust logistic regression models for classifying leukemia subtypes.\n\nDownload Full Report"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "I have always been drawn to the structure and logic of numbers. My academic path has allowed me to explore this passion deeply:\n\nMaster’s in Statistics (Expected June 2024) – Oregon State University\nBachelor’s in Actuarial Science – University of Ghana\n\nThrough my studies, I have gained expertise in predictive modeling, statistical computing, and high-dimensional data analysis, all of which fuel my curiosity about solving real-world problems.\n\n\n\n\n\n\nI work extensively with survival analysis, Bayesian inference, generalized linear models, time series forecasting and Genomics Studies.\n\n\n\nI have hands-on experience in using tools like SQL, Tableau, and Power BI to create dynamic, insightful reports. Clear and effective storytelling is key to making data accessible, and I strive to bridge that gap."
+    "text": "I have always been drawn to the structure and logic of numbers. My academic path has allowed me to explore this passion deeply:\n\nMaster’s in Statistics (Expected June 2024) – Oregon State University\n\nBachelor’s in Actuarial Science – University of Ghana\n\nThrough my studies, I have gained expertise in predictive modeling, statistical computing, and high-dimensional data analysis, all of which fuel my curiosity about solving real-world problems."
   },
   {
     "objectID": "about.html#academic-journey",
     "href": "about.html#academic-journey",
     "title": "About Me",
     "section": "",
-    "text": "I have always been drawn to the structure and logic of numbers. My academic path has allowed me to explore this passion deeply:\n\nMaster’s in Statistics (Expected June 2024) – Oregon State University\nBachelor’s in Actuarial Science – University of Ghana\n\nThrough my studies, I have gained expertise in predictive modeling, statistical computing, and high-dimensional data analysis, all of which fuel my curiosity about solving real-world problems."
+    "text": "I have always been drawn to the structure and logic of numbers. My academic path has allowed me to explore this passion deeply:\n\nMaster’s in Statistics (Expected June 2024) – Oregon State University\n\nBachelor’s in Actuarial Science – University of Ghana\n\nThrough my studies, I have gained expertise in predictive modeling, statistical computing, and high-dimensional data analysis, all of which fuel my curiosity about solving real-world problems."
   },
   {
     "objectID": "about.html#areas-of-expertise",
     "href": "about.html#areas-of-expertise",
     "title": "About Me",
-    "section": "",
-    "text": "I work extensively with survival analysis, Bayesian inference, generalized linear models, time series forecasting and Genomics Studies.\n\n\n\nI have hands-on experience in using tools like SQL, Tableau, and Power BI to create dynamic, insightful reports. Clear and effective storytelling is key to making data accessible, and I strive to bridge that gap."
+    "section": "Areas of Expertise",
+    "text": "Areas of Expertise\n\nData Science & Statistical Modeling\nI work extensively with survival analysis, Bayesian inference, generalized linear models, time series forecasting, and genomics studies.\n\n\nData Science & Visualization\nI have hands-on experience using tools like SQL, Tableau, and Power BI to create dynamic, insightful reports. Clear and effective storytelling is key to making data accessible, and I strive to bridge that gap."
   },
   {
     "objectID": "index.html",
