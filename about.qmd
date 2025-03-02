@@ -3,22 +3,24 @@ title: "About Me"
 format: html
 ---
 
-# 🌸 Hi, I'm Efua Ainooson! 🎀
+# About Me  
 
-Welcome to my personal website! I am a **graduate student in statistics**, passionate about **biostatistics, Bayesian methods, and computational statistics**.
+## Academic Journey  
+I have always been drawn to the structure and logic of numbers. My academic path has allowed me to explore this passion deeply:  
 
-## ✨ My Research Interests
-📊 **Survival Analysis** – Exploring statistical models for time-to-event data.  
-🧬 **Precision Medicine** – Using data-driven approaches for personalized healthcare.  
-🎯 **Bayesian Machine Learning** – Applying Empirical Bayes and nonparametric models.
+- **Master’s in Statistics** *(Expected June 2024) – Oregon State University*  
+  
+- **Bachelor’s in Actuarial Science** – University of Ghana  
 
-## 🎓 Education & Skills
-- 🎓 **Master’s in Statistics** (In Progress)  
-- 💻 **Programming Languages:** R, Python, Quarto  
-- 📈 **Data Science Tools:** ggplot2, tidyverse, LASSO regression, penalized logistic regression  
+Through my studies, I have gained expertise in **predictive modeling, statistical computing, and high-dimensional data analysis**, all of which fuel my curiosity about solving real-world problems.  
 
-## 📌 My Data Journey 📊
-I started my journey in **data science and statistics** with a love for **mathematical modeling**. Over time, I have worked on projects involving **Monte Carlo simulations, logistic regression, and high-dimensional data analysis**.
+---
 
-## 📈 Data Summary in R
+## Areas of Expertise  
+
+### Data Science & Statistical Modeling  
+I work extensively with **survival analysis, Bayesian inference, generalized linear models, time series forecasting and Genomics Studies**. 
+
+### Data Engineering & Visualization  
+I have hands-on experience in using tools like **SQL, Tableau, and Power BI** to create dynamic, insightful reports. Clear and effective storytelling is key to making data accessible, and I strive to bridge that gap.  
 
