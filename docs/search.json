@@ -4,7 +4,7 @@
     "href": "portfolio.html",
     "title": "Portfolio",
     "section": "",
-    "text": "📁 My Projects\n##Comparative Study of Regularization Techniques\n\n\n\n\n\n🔬 Project Overview\nThe primary objective of this project is to analyze a leukemia gene expression dataset using various penalized regression methods. The analysis applies Lasso, Ridge, and Elastic Net to identify the most significant genes associated with leukemia and to develop robust logistic regression models for classifying leukemia subtypes.\n\n\nFull Report & Code\nDownload Full Report (PDF)"
+    "text": "Comparative Study of Regularization Techniques in Logistic Regression\n\n\n\n\nProject Overview\nThe primary objective of this project is to analyze a leukemia gene expression dataset using various penalized regression methods. The analysis applies Lasso, Ridge, and Elastic Net to identify the most significant genes associated with leukemia and to develop robust logistic regression models for classifying leukemia subtypes.\n\n Download Full Report"
   },
   {
     "objectID": "about.html",
