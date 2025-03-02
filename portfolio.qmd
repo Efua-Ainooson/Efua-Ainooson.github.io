@@ -4,6 +4,7 @@ format: html
 ---
 
  
+<!-- Leukemia Gene Expression Classification -->
 <div class="project-card">
   <h2>Comparative Study of Regularization Techniques in Logistic Regression</h2>
   <img src="leukemia 2.jpg" alt="Leukemia Study" width="400px" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
@@ -18,3 +19,17 @@ format: html
 </div>
 
 
+<!-- Microfinance Interest Rate Study -->
+<div class="project-card">
+  <h2>Estimation of the Lending Phase and Interest Rate in Microfinance Institutions</h2>
+  <img src="Microfinance.jpg" alt="Interest Rate Study" width="400px" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
+
+  <h3>Project Overview</h3>
+  <p>
+    The objective of the study is to calculate the duration of the lending phase and the optimal interest rate when taking a loan. A low interest rate could lead to financial losses for microfinance institutions, while a high interest rate may result in strategic borrower defaults.  
+    <br><br>
+    This study estimates the **optimal interest rate** and **suitable punishment phase duration** to ensure both the sustainability of the institution and the repayment incentives for borrowers.
+  </p>
+
+  <a href="Microfinance_Lending_Interest.pdf" class="btn">Download Full Report</a>
+</div>
