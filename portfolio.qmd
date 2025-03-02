@@ -1,7 +1,22 @@
 ---
-title: "My Portfolio"
+title: "Portfolio"
 format: html
 ---
 
-# 📊 My Statistics & Data Science  Portfolio
+# 📁 My Projects  
+
+##Comparative Study of Regularization Techniques  
+<div style="text-align: center;">
+  <img src="images/leukemia 2.png" width="400px" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
+</div>
+
+### **🔬 Project Overview**  
+The primary objective of this project is to analyze a leukemia gene expression dataset using various penalized regression methods. The analysis applies **Lasso, Ridge, and Elastic Net** to identify the most significant genes associated with leukemia and to develop robust logistic regression models for classifying leukemia subtypes.
+
+ 
+
+### **Full Report & Code**
+ **[Download Full Report (PDF)](Leukemia Study.pdf)**  
+ 
+
 
