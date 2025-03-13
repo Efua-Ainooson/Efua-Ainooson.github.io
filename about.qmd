@@ -5,26 +5,39 @@ format: html
 
 <div class="about-container">
 
-## Academic Journey  
-I have always been drawn to the structure and logic of numbers. My academic path has allowed me to explore this passion deeply:  
+  <h2>My Academic Journey</h2>
+  <p>
+    My fascination with numbers has never been about memorizing formulas or following rules—it’s about uncovering the patterns that shape the world around us. From actuarial science to statistics, my academic path has been a continuous process of refining my ability to ask the right questions and find meaningful answers in data.
+  </p>
+  
+  <ul>
+    <li>Master’s in Statistics (Expected June 2024) – Oregon State University</li>
+    <li>Bachelor’s in Actuarial Science – University of Ghana</li>
+  </ul>
 
-- **Master’s in Statistics** *(Expected June 2024) – Oregon State University*  
-- **Bachelor’s in Actuarial Science** – University of Ghana  
-
-Through my studies, I have gained expertise in **predictive modeling, statistical computing, and high-dimensional data analysis**, all of which fuel my curiosity about solving real-world problems.  
+  <p>
+    While I thrive in theoretical challenges, my real passion lies in applying statistical methods to medical research, high-dimensional data, and real-world decision-making. Whether it's predictive modeling, computational statistics, or Bayesian methods, I’m drawn to approaches that push the boundaries of traditional analysis.
+  </p>
 
 </div>
 
----
-
 <div class="about-container">
 
-## Areas of Expertise  
+  <h2>What I Work On</h2>
 
-### Data Science & Statistical Modeling  
-I work extensively with **survival analysis, Bayesian inference, generalized linear models, time series forecasting, and genomics studies**.  
+  <h3>High-Dimensional Data & Statistical Learning</h3>
+  <p>
+    My work often involves datasets where traditional methods struggle—high-dimensional gene expression data, survival outcomes, and complex dependencies that require more than just standard modeling. I've explored LASSO, Elastic Net, and Bayesian nonparametrics to extract meaningful insights where simple approaches fall short.
+  </p>
 
-### Data Science & Visualization  
-I have hands-on experience using tools like **SQL, Tableau, and Power BI** to create dynamic, insightful reports. Clear and effective storytelling is key to making data accessible, and I strive to bridge that gap.  
+  <h3>Medical & Genomics Research</h3>
+  <p>
+    My interest in biostatistics isn't just theoretical. I've worked on leukemia gene expression classification, studied the robustness of feature selection methods in high-dimensional data, and explored survival analysis techniques to model patient outcomes. My goal is to contribute to research that translates statistical insights into real medical advancements.
+  </p>
+
+  <h3>Data-Driven Decision Making</h3>
+  <p>
+    Numbers tell a story, but only if you know how to listen. Whether it's using SQL and Power BI to make sense of financial data or developing predictive models to optimize loan pricing, I focus on making data actionable. Effective analysis isn't just about accuracy—it’s about impact.
+  </p>
 
 </div>
