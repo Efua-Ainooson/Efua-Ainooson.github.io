@@ -5,8 +5,6 @@ format: html
 
 <div class="about-container">
 
-  <h2>About Me</h2>
-
   <p>
     I’m Efua Ainooson Noonoo, a graduate student in Statistics at Oregon State University with a background in Actuarial Science from the University of Ghana. I’m passionate about using data to ask better questions and uncover insights that can transform healthcare, finance, and the way we understand human outcomes.
   </p>
@@ -32,11 +30,14 @@ format: html
 
   <h3>Recent Projects</h3>
   <ul>
+  <li><strong>Genomics Research:</strong> Performed differential gene expression analysis on RNA-Seq data to investigate dietary lipid effects in juvenile Chinook salmon.</li>
     <li><strong>Survival Simulation Study:</strong> Evaluated IPCW, naive models, and selection/pattern mixture models under dependent censoring.</li>
-    <li><strong>Leukemia Gene Expression Classification:</strong> Used LASSO, Ridge, and Elastic Net with cross-validation to assess stability and predictive power in high-dimensional genomic data.</li>
+    <li><strong>Leukemia Gene Expression Classification:</strong> Used LASSO, Ridge, and Elastic Net to assess stability and predictive power in high-dimensional genomic data.</li>
     <li><strong>Loan Default Risk Optimization:</strong> Combined logistic regression with optimization algorithms to determine optimal interest rates based on predicted risk.</li>
     <li><strong>Bayesian Analysis of Life Expectancy:</strong> Compared Bayesian models to investigate links between lifestyle factors and longevity across major cities.</li>
     <li><strong>Pharmaceutical Forecasting:</strong> Applied time series methods in R to predict trends in pharmaceutical sales and demand.</li>
+  </ul>
+  <li>Estimated optimal interest rates and punishment phases for borrowers in microfinance institution.</li>
   </ul>
 
 </div>
@@ -50,13 +51,13 @@ format: html
   </p>
 
   <ul>
-    <li><strong>Statistical Modeling & Inference.</li>
-    <li><strong>Bayesian Analysis</li>
-    <li><strong>Time Series & Forecasting.</li>
-    <li><strong>Machine Learning</li>
-    <li><strong>Data Engineering & Visualization</li>
-    <li><strong>Bioinformatics & Genomics</li>
-    <li><strong>Research Computing</li>
+    <li>Statistical Modeling & Inference.</li>
+    <li>Bayesian Analysis</li>
+    <li>Time Series & Forecasting.</li>
+    <li>Machine Learning</li>
+    <li>Data Engineering & Visualization</li>
+    <li>Bioinformatics & Genomics</li>
+    <li>Research Computing</li>
   </ul>
 
   <p>
