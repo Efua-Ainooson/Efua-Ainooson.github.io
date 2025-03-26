@@ -1,34 +1,35 @@
 ---
-title: "Portfolio"
-format: 
-  html:
-    page-layout: full
-output-dir: docs
-css: styles.css
+title: "Portfolio Projects"
 ---
 
-<div class="portfolio-container">
-  <!-- Leukemia Gene Expression Classification -->
-  <div class="project-card">
-    <h2>Comparative Study of Regularization Techniques in Logistic Regression</h2>
-    <img src="leukemia 2.jpg" alt="Leukemia Study">
-    <h3>Project Overview</h3>
-    <p>
-      The primary objective of this project is to analyze a leukemia gene expression dataset using various penalized regression methods.
-      The analysis applies <strong>Lasso, Ridge, and Elastic Net</strong> to identify the most significant genes associated with leukemia and to develop robust logistic regression models for classifying leukemia subtypes.
-    </p>
-    <a href="pdfs/Leukemia-Study.pdf" class="btn">Download Full Report</a>
-  </div>
-  
-  <!-- Microfinance Interest Rate Study -->
-  <div class="project-card">
-    <h2>Estimation of Lending Phase & Interest Rate in Microfinance</h2>
-    <img src="Microfinance.jpg" alt="Interest Rate Study">
-    <h3>Project Overview</h3>
-    <p>
-      The study calculates the <strong>optimal interest rate</strong> and <strong>lending phase duration</strong> to ensure financial sustainability and prevent strategic borrower defaults.<br><br>
-      A low interest rate results in microfinance institutions running at a loss, while a high interest rate leads to borrower defaults. This research helps strike the perfect balance.
-    </p>
-    <a href="pdfs/Microfinance-Lending-Interest.pdf" class="btn">Download Full Report</a>
-  </div>
-</div>
+:::{.portfolio-container}
+
+:::{.project-card}
+
+## Comparative Study of Regularization Techniques in Logistic Regression
+
+![Leukemia Study](leukemia 2.jpg)
+
+### Project Overview
+
+The primary objective of this project is to analyze a leukemia gene expression dataset using various penalized regression methods. The analysis applies Lasso, Ridge, and Elastic Net to identify the most significant genes associated with leukemia and to develop robust logistic regression models for classifying leukemia subtypes.
+
+[Download Full Report](pdfs/Leukemia-Study.pdf){.btn}
+
+:::
+
+:::{.project-card}
+
+## Estimation of Lending Phase & Interest Rate in Microfinance
+
+![Interest Rate Study](Microfinance.jpg)
+
+### Project Overview
+
+The study calculates the optimal interest rate and lending phase duration to ensure financial sustainability and prevent strategic borrower defaults. A low interest rate results in microfinance institutions running at a loss, while a high interest rate leads to borrower defaults. This research helps strike the perfect balance.
+
+[Download Full Report](pdfs/Microfinance-Lending-Interest.pdf){.btn}
+
+:::
+
+:::
