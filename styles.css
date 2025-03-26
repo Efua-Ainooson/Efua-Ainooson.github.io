@@ -1,18 +1,18 @@
 /* Import Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
 
-/* 🌸 Custom Colors for Pulse */
+/* 🌸 Body Style */
 body {
     font-family: 'Poppins', sans-serif;
     color: #444;
-    background: linear-gradient(to right, #f2e6f8, #ffffff); /* Soft Pink */
+    background: linear-gradient(to right, #f2e6f8, #ffffff);
     margin: 0;
     padding: 0;
 }
 
 /* 💜 Navbar Styling */
 .navbar {
-    background-color: #5a0275 !important; /* Darker Purple for better contrast */
+    background-color: #5a0275 !important;
     border-radius: 15px;
     padding: 10px 20px;
     box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
@@ -20,7 +20,7 @@ body {
 
 /* 📌 Buttons */
 button, .btn {
-    background-color: #ff007f; /* Vibrant pink */
+    background-color: #ff007f;
     color: white;
     border-radius: 25px;
     padding: 12px 18px;
@@ -28,6 +28,9 @@ button, .btn {
     font-size: 16px;
     transition: all 0.3s ease-in-out;
     cursor: pointer;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 10px;
 }
 
 button:hover, .btn:hover {
@@ -35,7 +38,7 @@ button:hover, .btn:hover {
     transform: scale(1.05);
 }
 
-/* Portfolio Container */
+/* 📂 Portfolio Container */
 .portfolio-container {
     display: flex;
     justify-content: center;
@@ -44,48 +47,42 @@ button:hover, .btn:hover {
     padding: 20px;
 }
 
-/* Individual Project Card */
+/* 📄 Project Card with Animation */
 .project-card {
     background: white;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
-    width: 45%;  /* Two per row */
+    width: 45%;
     text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-/* Make Images Responsive */
+.project-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+/* 🖼️ Image Styling and Hover */
 .project-card img {
     width: 100%;
     height: auto;
     border-radius: 10px;
     box-shadow: 2px 2px 10px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease;
 }
 
-/* Buttons */
-.btn {
-    display: inline-block;
-    background-color: #ff007f;
-    color: white;
-    padding: 10px 15px;
-    text-decoration: none;
-    border-radius: 20px;
-    margin-top: 10px;
-    transition: all 0.3s ease-in-out;
+.project-card img:hover {
+    transform: scale(1.02);
 }
 
-.btn:hover {
-    background-color: #db0070;
-    transform: scale(1.05);
-}
-
-/* Mobile View - Stack Projects */
+/* 📱 Mobile View */
 @media (max-width: 768px) {
     .portfolio-container {
         flex-direction: column;
         align-items: center;
     }
     .project-card {
-        width: 90%;  /* Full width on mobile */
+        width: 90%;
     }
 }

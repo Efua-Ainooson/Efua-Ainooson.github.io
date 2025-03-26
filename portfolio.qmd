@@ -16,7 +16,8 @@ css: styles.css
   
   <h3>Project Overview</h3>
     <p>
-      The primary objective of this project is to analyze a leukemia gene expression dataset using various penalized regression methods. The analysis applies 
+      The primary objective of this project is to analyze a leukemia gene 
+      expression dataset using various penalized regression methods. The analysis applies 
       <strong>Lasso, Ridge, and Elastic Net</strong> to identify the most significant genes associated with leukemia and to develop robust logistic regression models for classifying leukemia subtypes.
     </p>
 
