@@ -12,9 +12,9 @@ title: "Portfolio Projects"
 
 ### Project Overview
 
-The primary objective of this project is to analyze a leukemia gene expression dataset using various penalized regression methods. The analysis applies Lasso, Ridge, and Elastic Net to identify the most significant genes associated with leukemia and to develop robust logistic regression models for classifying leukemia subtypes.
+The primary objective of this project is to analyze a leukemia gene expression dataset using various penalized regression methods. The analysis applies **Lasso, Ridge, and Elastic Net** to identify the most significant genes associated with leukemia and to develop robust logistic regression models for classifying leukemia subtypes.
 
-[Download Full Report](pdfs/Leukemia-Study.pdf){.btn}
+[Download Full Report](Leukemia Study.pdf){.btn}
 
 :::
 
@@ -26,9 +26,9 @@ The primary objective of this project is to analyze a leukemia gene expression d
 
 ### Project Overview
 
-The study calculates the optimal interest rate and lending phase duration to ensure financial sustainability and prevent strategic borrower defaults. A low interest rate results in microfinance institutions running at a loss, while a high interest rate leads to borrower defaults. This research helps strike the perfect balance.
+The study calculates the **optimal interest rate** and **lending phase duration** to ensure financial sustainability and prevent strategic borrower defaults. A low interest rate results in microfinance institutions running at a loss, while a high interest rate leads to borrower defaults. This research helps strike the perfect balance.
 
-[Download Full Report](pdfs/Microfinance-Lending-Interest.pdf){.btn}
+[Download Full Report](Microfinance Lending Interest.pdf){.btn}
 
 :::
 
