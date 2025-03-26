@@ -1,8 +1,6 @@
 ---
 title: "Portfolio"
 format: html
-output-dir: docs
-css: styles.css
 ---
 
 
