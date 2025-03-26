@@ -5,18 +5,18 @@ format: html
 
 <div class="about-container">
 
-  <h2>My Academic Journey</h2>
-  <p>
-    My fascination with numbers has never been about memorizing formulas or following rules—it’s about uncovering the patterns that shape the world around us. From actuarial science to statistics, my academic path has been a continuous process of refining my ability to ask the right questions and find meaningful answers in data.
-  </p>
-  
-  <ul>
-    <li>Master’s in Statistics (Expected June 2024) – Oregon State University</li>
-    <li>Bachelor’s in Actuarial Science – University of Ghana</li>
-  </ul>
+  <h2>About Me</h2>
 
   <p>
-    While I thrive in theoretical challenges, my real passion lies in applying statistical methods to medical research, high-dimensional data, and real-world decision-making. Whether it's predictive modeling, computational statistics, or Bayesian methods, I’m drawn to approaches that push the boundaries of traditional analysis.
+    I’m Efua Ainooson Noonoo, a graduate student in Statistics at Oregon State University with a background in Actuarial Science from the University of Ghana. I’m passionate about using data to ask better questions and uncover insights that can transform healthcare, finance, and the way we understand human outcomes.
+  </p>
+
+  <p>
+    My interest in numbers has never been about formulas or precision for their own sake. What drew me in—and still does—is their ability to reveal structure in complexity, to bring clarity where there was once only noise. That curiosity has grown into a commitment to applying statistical thinking to real-world problems across domains—whether in genomics and medical research, survival analysis, financial modeling, or or complex data analysis across disciplines.
+  </p>
+
+  <p>
+    I’m especially interested in the interplay between theory and computation. At the core of it all is a drive to use statistics not just to model data, but to generate insight that matters.
   </p>
 
 </div>
@@ -25,19 +25,64 @@ format: html
 
   <h2>What I Work On</h2>
 
-  <h3>High-Dimensional Data & Statistical Learning</h3>
+  <h3>Translating Data Into Discovery</h3>
   <p>
-    My work often involves datasets where traditional methods struggle—high-dimensional gene expression data, survival outcomes, and complex dependencies that require more than just standard modeling. I've explored LASSO, Elastic Net, and Bayesian nonparametrics to extract meaningful insights where simple approaches fall short.
+    I specialize in statistical learning and modeling for data, with a focus on applications in health, finance, and policy. My work spans topics like survival analysis with dependent censoring, penalized regression methods, Bayesian modeling, and machine learning techniques including decision trees and clustering. I’m particularly drawn to projects where traditional techniques fall short—where modeling complexity and interpretability matter equally.
   </p>
 
-  <h3>Medical & Genomics Research</h3>
+  <h3>Recent Projects</h3>
+  <ul>
+    <li><strong>Survival Simulation Study:</strong> Evaluated IPCW, naive models, and selection/pattern mixture models under dependent censoring.</li>
+    <li><strong>Leukemia Gene Expression Classification:</strong> Used LASSO, Ridge, and Elastic Net with cross-validation to assess stability and predictive power in high-dimensional genomic data.</li>
+    <li><strong>Loan Default Risk Optimization:</strong> Combined logistic regression with optimization algorithms to determine optimal interest rates based on predicted risk.</li>
+    <li><strong>Bayesian Analysis of Life Expectancy:</strong> Compared Bayesian models to investigate links between lifestyle factors and longevity across major cities.</li>
+    <li><strong>Pharmaceutical Forecasting:</strong> Applied time series methods in R to predict trends in pharmaceutical sales and demand.</li>
+  </ul>
+
+</div>
+
+<div class="about-container">
+
+  <h2>Tools & Techniques</h2>
+
   <p>
-    My interest in biostatistics isn't just theoretical. I've worked on leukemia gene expression classification, studied the robustness of feature selection methods in high-dimensional data, and explored survival analysis techniques to model patient outcomes. My goal is to contribute to research that translates statistical insights into real medical advancements.
+    I’m proficient in <strong>R</strong>, <strong>Python</strong>, <strong>SQL</strong>, and <strong>Tableau</strong>, with additional experience in <strong>SAS</strong>, <strong>C++</strong>, <strong>Power BI</strong>, and <strong>Excel VBA</strong>. My technical and analytical skill set spans the following areas:
   </p>
 
-  <h3>Data-Driven Decision Making</h3>
+  <ul>
+    <li><strong>Statistical Modeling & Inference.</li>
+    <li><strong>Bayesian Analysis</li>
+    <li><strong>Time Series & Forecasting.</li>
+    <li><strong>Machine Learning</li>
+    <li><strong>Data Engineering & Visualization</li>
+    <li><strong>Bioinformatics & Genomics</li>
+    <li><strong>Research Computing</li>
+  </ul>
+
   <p>
-    Numbers tell a story, but only if you know how to listen. Whether it's using SQL and Power BI to make sense of financial data or developing predictive models to optimize loan pricing, I focus on making data actionable. Effective analysis isn't just about accuracy—it’s about impact.
+    My work bridges statistical theory and practical application, with an emphasis on clarity, reproducibility, and real-world impact. I’m continually expanding my toolkit to meet the challenges of interdisciplinary research and data-driven decision-making.
+  </p>
+
+</div>
+
+<div class="about-container">
+
+  <h2>Looking Ahead</h2>
+
+  <p>
+    I’m excited to continue working at the intersection of statistics, machine learning, and real-world impact; whether through research, data science, or analytics roles. In the near term, I’m seeking opportunities that allow me to apply my skills in biostatistics, financial modeling, and data analysis to complex challenges in healthcare, finance, and beyond.
+  </p>
+
+  <p>
+    I’m particularly interested in using statistical learning and machine learning techniques to support evidence-driven decision-making across disciplines. Whether it’s improving patient outcomes, optimizing loan pricing, or analyzing policy impact, I’m drawn to problems where data meets decisions.
+  </p>
+
+  <p>
+    Long-term, I aim to contribute to interdisciplinary research and analytics that combine methodological rigor with practical relevance.
+  </p>
+
+  <p>
+    If you’re interested in connecting about research, analytics roles, or collaborative projects, feel free to <a href="/#contact">reach out</a>.
   </p>
 
 </div>
