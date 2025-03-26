@@ -11,13 +11,12 @@ css: styles.css
   <!-- Leukemia Gene Expression Classification -->
   <div class="project-card">
     <h2>Comparative Study of Regularization Techniques in Logistic Regression</h2>
-    <img src="leukemia 2.jpg" alt="Leukemia Study" width="100%" style="border-radius: 10px;">
+    <img src="leukemia-2.jpg" alt="Leukemia Study" width="100%" style="border-radius: 10px;">
 
     <h3>Project Overview</h3>
     <p>
-      The primary objective of this project is to analyze a leukemia gene 
-      expression dataset using various penalized regression methods. The analysis applies 
-      <strong>Lasso, Ridge, and Elastic Net</strong> to identify the most significant genes associated with leukemia and to develop robust logistic regression models for classifying leukemia subtypes.
+      The primary objective of this project is to analyze a leukemia gene expression dataset using various penalized regression methods. 
+      The analysis applies <strong>Lasso, Ridge, and Elastic Net</strong> to identify the most significant genes associated with leukemia and to develop robust logistic regression models for classifying leukemia subtypes.
     </p>
 
     <a href="Leukemia Study.pdf" class="btn">Download Full Report</a>
@@ -26,7 +25,7 @@ css: styles.css
   <!-- Microfinance Interest Rate Study -->
   <div class="project-card">
     <h2>Estimation of Lending Phase & Interest Rate in Microfinance</h2>
-    <img src="Microfinance.jpg" alt="Interest Rate Study" width="100%" style="border-radius: 10px;">
+    <img src="microfinance.jpg" alt="Interest Rate Study" width="100%" style="border-radius: 10px;">
 
     <h3>Project Overview</h3>
     <p>
