@@ -10,7 +10,7 @@ format: html
   <!-- Leukemia Gene Expression Classification -->
   <div class="project-card">
     <h2>Comparative Study of Regularization Techniques in Logistic Regression</h2>
-    <img src="leukemia-2.jpg" alt="Leukemia Study" width="100%" style="border-radius: 10px;">
+    <img src="leukemia 2.jpg" alt="Leukemia Study" width="100%" style="border-radius: 10px;">
 
     <h3>Project Overview</h3>
     <p>
@@ -24,7 +24,7 @@ format: html
   <!-- Microfinance Interest Rate Study -->
   <div class="project-card">
     <h2>Estimation of Lending Phase & Interest Rate in Microfinance</h2>
-    <img src="microfinance.jpg" alt="Interest Rate Study" width="100%" style="border-radius: 10px;">
+    <img src="Microfinance.jpg" alt="Interest Rate Study" width="100%" style="border-radius: 10px;">
 
     <h3>Project Overview</h3>
     <p>
