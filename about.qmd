@@ -1,6 +1,8 @@
 ---
 title: "About Me"
 format: html
+page-layout: full
+title-block: false
 ---
 
 <div class="about-container">
@@ -10,7 +12,7 @@ format: html
   </p>
 
   <p>
-    My interest in numbers has never been about formulas or precision for their own sake. What drew me in—and still does—is their ability to reveal structure in complexity, to bring clarity where there was once only noise. That curiosity has grown into a commitment to applying statistical thinking to real-world problems across domains—whether in genomics and medical research, survival analysis, financial modeling, or or complex data analysis across disciplines.
+    My interest in numbers has never been about formulas or precision for their own sake. What drew me in—and still does—is their ability to reveal structure in complexity, to bring clarity where there was once only noise. That curiosity has grown into a commitment to applying statistical thinking to real-world problems across domains—whether in genomics and medical research, survival analysis, financial modeling, or complex data analysis across disciplines.
   </p>
 
   <p>
@@ -30,14 +32,13 @@ format: html
 
   <h3>Recent Projects</h3>
   <ul>
-  <li><strong>Genomics Research:</strong> Performed differential gene expression analysis on RNA-Seq data to investigate dietary lipid effects in juvenile Chinook salmon.</li>
+    <li><strong>Genomics Research:</strong> Performed differential gene expression analysis on RNA-Seq data to investigate dietary lipid effects in juvenile Chinook salmon.</li>
     <li><strong>Survival Simulation Study:</strong> Evaluated IPCW, naive models, and selection/pattern mixture models under dependent censoring.</li>
     <li><strong>Leukemia Gene Expression Classification:</strong> Used LASSO, Ridge, and Elastic Net to assess stability and predictive power in high-dimensional genomic data.</li>
     <li><strong>Loan Default Risk Optimization:</strong> Combined logistic regression with optimization algorithms to determine optimal interest rates based on predicted risk.</li>
     <li><strong>Bayesian Analysis of Life Expectancy:</strong> Compared Bayesian models to investigate links between lifestyle factors and longevity across major cities.</li>
     <li><strong>Pharmaceutical Forecasting:</strong> Applied time series methods in R to predict trends in pharmaceutical sales and demand.</li>
-  </ul>
-  <li>Estimated optimal interest rates and punishment phases for borrowers in microfinance institution.</li>
+    <li><strong>Microfinance Strategy Modeling:</strong> Estimated optimal interest rates and punishment phases for borrowers in a microfinance institution.</li>
   </ul>
 
 </div>
@@ -51,9 +52,9 @@ format: html
   </p>
 
   <ul>
-    <li>Statistical Modeling & Inference.</li>
+    <li>Statistical Modeling & Inference</li>
     <li>Bayesian Analysis</li>
-    <li>Time Series & Forecasting.</li>
+    <li>Time Series & Forecasting</li>
     <li>Machine Learning</li>
     <li>Data Engineering & Visualization</li>
     <li>Bioinformatics & Genomics</li>
@@ -71,7 +72,7 @@ format: html
   <h2>Looking Ahead</h2>
 
   <p>
-    I’m excited to continue working at the intersection of statistics, machine learning, and real-world impact; whether through research, data science, or analytics roles. In the near term, I’m seeking opportunities that allow me to apply my skills in biostatistics, financial modeling, and data analysis to complex challenges in healthcare, finance, and beyond.
+    I’m excited to continue working at the intersection of statistics, machine learning, and real-world impact—whether through research, data science, or analytics roles. In the near term, I’m seeking opportunities that allow me to apply my skills in biostatistics, financial modeling, and data analysis to complex challenges in healthcare, finance, and beyond.
   </p>
 
   <p>
