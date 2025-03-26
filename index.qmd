@@ -4,7 +4,7 @@ format: html
 ---
 
 
-!(profile.jpg){width=300px style="border-radius: 50%; display: block; margin-left: auto; margin-right: auto;"}
+![](profile.jpg){width=300px style="border-radius: 50%; display: block; margin-left: auto; margin-right: auto;"}
 
 
 🌸 Hey there! 
