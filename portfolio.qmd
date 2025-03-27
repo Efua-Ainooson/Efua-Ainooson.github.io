@@ -12,7 +12,7 @@ title: "Portfolio Projects"
 
 ### Project Overview
 
-The primary objective of this project is to analyze a leukemia gene expression dataset using various penalized regression methods. The analysis applies **Lasso, Ridge, and Elastic Net** to identify the most significant genes associated with leukemia and to develop robust logistic regression models for classifying leukemia subtypes.
+The primary objective of this project is to analyze a leukemia gene expression dataset using various penalized regression methods. The analysis applies Lasso, Ridge, and Elastic Net to identify the most significant genes associated with leukemia and to develop robust logistic regression models for classifying leukemia subtypes.
 
 [Download Full Report](Leukemia Study.pdf){.btn}
 
@@ -26,9 +26,25 @@ The primary objective of this project is to analyze a leukemia gene expression d
 
 ### Project Overview
 
-The study calculates the **optimal interest rate** and **lending phase duration** to ensure financial sustainability and prevent strategic borrower defaults. A low interest rate results in microfinance institutions running at a loss, while a high interest rate leads to borrower defaults. This research helps strike the perfect balance.
+The study calculates the optimal interest rate and lending phase duration to ensure financial sustainability and prevent strategic borrower defaults. A low interest rate results in microfinance institutions running at a loss, while a high interest rate leads to borrower defaults. This research helps strike the perfect balance.
 
 [Download Full Report](Microfinance Lending Interest.pdf){.btn}
+
+:::
+
+:::{.project-card}
+
+## Handling Dependent Censoring in Survival Models: A Comparative Simulation Study
+
+![Dependent Censoring Study ](survival analysis image.jpg)
+
+### Project Overview
+
+This project involved a comparative simulation study of time-to-event models under scenarios of dependent censoring, a common but challenging issue in clinical research.
+The performance of several methods including Inverse Probability of Censoring Weights (IPCW), Naive models, and likelihood-based Selection and Pattern Mixture models were evaluated.
+The simulation framework, implemented in R, explored bias, variance, and model robustness under varying strengths of dependence between failure and censoring times. The findings provide insights into when and how to adjust for non-independent censoring in survival analysis.
+
+[Download Full Report](ST_625_Project(4).pdf){.btn}
 
 :::
 
