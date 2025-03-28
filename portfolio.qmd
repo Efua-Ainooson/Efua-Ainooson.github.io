@@ -9,34 +9,6 @@ output-dir: docs
 
 :::{.project-card}
 
-## Comparative Study of Regularization Techniques in Logistic Regression
-
-![](leukemia 2.jpg)
-
-### Project Overview
-
-This project analyzes a leukemia gene expression dataset using penalized regression methods—Lasso, Ridge, and Elastic Net—to identify key genes and build robust classifiers for leukemia subtypes.
-
-[Download Full Report](Leukemia Study.pdf){.btn}
-
-:::
-
-:::{.project-card}
-
-## Estimation of Lending Phase & Interest Rate in Microfinance
-
-![](Microfinance.png)
-
-### Project Overview
-
-This study calculates the optimal interest rate and lending phase duration to ensure financial sustainability while minimizing strategic borrower defaults. It identifies the balance between institutional sustainability and client success.
-
-[Download Full Report](Estimation of the Lending Phase and Interest Rate in Microfinance Instituition.pdf){.btn}
-
-:::
-
-:::{.project-card}
-
 ## Handling Dependent Censoring in Survival Models: A Comparative Simulation Study
 
 ![](survival analysis image.jpg)
@@ -60,6 +32,34 @@ This simulation-based project compares time-to-event models under dependent cens
 This project reframes dependent censoring as a missing not at random (MNAR) problem in survival analysis. I compared four approaches—IPCW, naive analysis, selection models, and pattern mixture models—under various dependence structures, evaluating their performance on bias and robustness.
 
 [Download Full Report](Missing Data Project.pdf){.btn}
+
+:::
+
+:::{.project-card}
+
+## Comparative Study of Regularization Techniques in Logistic Regression
+
+![](leukemia 2.jpg)
+
+### Project Overview
+
+This project analyzes a leukemia gene expression dataset using penalized regression methods—Lasso, Ridge, and Elastic Net—to identify key genes and build robust classifiers for leukemia subtypes.
+
+[Download Full Report](Leukemia Study.pdf){.btn}
+
+:::
+
+:::{.project-card}
+
+## Estimation of Lending Phase & Interest Rate in Microfinance
+
+![](Microfinance.png)
+
+### Project Overview
+
+This study calculates the optimal interest rate and lending phase duration to ensure financial sustainability while minimizing strategic borrower defaults. It identifies the balance between institutional sustainability and client success.
+
+[Download Full Report](Estimation of the Lending Phase and Interest Rate in Microfinance Instituition.pdf){.btn}
 
 :::
 
