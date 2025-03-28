@@ -4,28 +4,28 @@
     "href": "portfolio.html",
     "title": "Portfolio Projects",
     "section": "",
-    "text": "Leukemia Study\n\n\n\n\nThis project analyzes a leukemia gene expression dataset using penalized regression methods—Lasso, Ridge, and Elastic Net—to identify key genes and build robust classifiers for leukemia subtypes.\nDownload Full Report\n\n\n\n\n\n\n\nInterest Rate Study\n\n\n\n\nThis study calculates the optimal interest rate and lending phase duration to ensure financial sustainability while minimizing strategic borrower defaults. It identifies the balance between institutional sustainability and client success.\nDownload Full Report\n\n\n\n\n\n\n\nDependent Censoring Study\n\n\n\n\nThis simulation-based project compares time-to-event models under dependent censoring using IPCW, naive models, and likelihood-based selection/pattern mixture models—highlighting performance in terms of bias, variance, and robustness.\nDownload Full Report\n\n\n\n\n\n\n\nMissing Data Study\n\n\n\n\nThis project reframes dependent censoring as a missing not at random (MNAR) problem in survival analysis. I compared four approaches—IPCW, naive analysis, selection models, and pattern mixture models—under various dependence structures, evaluating their performance on bias and robustness.\nDownload Full Report"
+    "text": "This project analyzes a leukemia gene expression dataset using penalized regression methods—Lasso, Ridge, and Elastic Net—to identify key genes and build robust classifiers for leukemia subtypes.\nDownload Full Report\n\n\n\n\n\n\n\nThis study calculates the optimal interest rate and lending phase duration to ensure financial sustainability while minimizing strategic borrower defaults. It identifies the balance between institutional sustainability and client success.\nDownload Full Report\n\n\n\n\n\n\n\nThis simulation-based project compares time-to-event models under dependent censoring using IPCW, naive models, and likelihood-based selection/pattern mixture models—highlighting performance in terms of bias, variance, and robustness.\nDownload Full Report\n\n\n\n\n\n\n\nThis project reframes dependent censoring as a missing not at random (MNAR) problem in survival analysis. I compared four approaches—IPCW, naive analysis, selection models, and pattern mixture models—under various dependence structures, evaluating their performance on bias and robustness.\nDownload Full Report"
   },
   {
     "objectID": "portfolio.html#comparative-study-of-regularization-techniques-in-logistic-regression",
     "href": "portfolio.html#comparative-study-of-regularization-techniques-in-logistic-regression",
     "title": "Portfolio Projects",
     "section": "",
-    "text": "Leukemia Study\n\n\n\n\nThis project analyzes a leukemia gene expression dataset using penalized regression methods—Lasso, Ridge, and Elastic Net—to identify key genes and build robust classifiers for leukemia subtypes.\nDownload Full Report"
+    "text": "This project analyzes a leukemia gene expression dataset using penalized regression methods—Lasso, Ridge, and Elastic Net—to identify key genes and build robust classifiers for leukemia subtypes.\nDownload Full Report"
   },
   {
     "objectID": "portfolio.html#estimation-of-lending-phase-interest-rate-in-microfinance",
     "href": "portfolio.html#estimation-of-lending-phase-interest-rate-in-microfinance",
     "title": "Portfolio Projects",
     "section": "",
-    "text": "Interest Rate Study\n\n\n\n\nThis study calculates the optimal interest rate and lending phase duration to ensure financial sustainability while minimizing strategic borrower defaults. It identifies the balance between institutional sustainability and client success.\nDownload Full Report"
+    "text": "This study calculates the optimal interest rate and lending phase duration to ensure financial sustainability while minimizing strategic borrower defaults. It identifies the balance between institutional sustainability and client success.\nDownload Full Report"
   },
   {
     "objectID": "portfolio.html#handling-dependent-censoring-in-survival-models-a-comparative-simulation-study",
     "href": "portfolio.html#handling-dependent-censoring-in-survival-models-a-comparative-simulation-study",
     "title": "Portfolio Projects",
     "section": "",
-    "text": "Dependent Censoring Study\n\n\n\n\nThis simulation-based project compares time-to-event models under dependent censoring using IPCW, naive models, and likelihood-based selection/pattern mixture models—highlighting performance in terms of bias, variance, and robustness.\nDownload Full Report"
+    "text": "This simulation-based project compares time-to-event models under dependent censoring using IPCW, naive models, and likelihood-based selection/pattern mixture models—highlighting performance in terms of bias, variance, and robustness.\nDownload Full Report"
   },
   {
     "objectID": "about.html",
@@ -46,6 +46,6 @@
     "href": "portfolio.html#evaluating-methods-for-handling-dependent-censoring-as-a-missing-data-problem",
     "title": "Portfolio Projects",
     "section": "",
-    "text": "Missing Data Study\n\n\n\n\nThis project reframes dependent censoring as a missing not at random (MNAR) problem in survival analysis. I compared four approaches—IPCW, naive analysis, selection models, and pattern mixture models—under various dependence structures, evaluating their performance on bias and robustness.\nDownload Full Report"
+    "text": "This project reframes dependent censoring as a missing not at random (MNAR) problem in survival analysis. I compared four approaches—IPCW, naive analysis, selection models, and pattern mixture models—under various dependence structures, evaluating their performance on bias and robustness.\nDownload Full Report"
   }
 ]

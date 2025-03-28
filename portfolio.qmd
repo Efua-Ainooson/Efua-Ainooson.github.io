@@ -11,7 +11,7 @@ output-dir: docs
 
 ## Comparative Study of Regularization Techniques in Logistic Regression
 
-![Leukemia Study](leukemia 2.jpg)
+![](leukemia 2.jpg)
 
 ### Project Overview
 
@@ -25,7 +25,7 @@ This project analyzes a leukemia gene expression dataset using penalized regress
 
 ## Estimation of Lending Phase & Interest Rate in Microfinance
 
-![Interest Rate Study](Microfinance.png)
+![](Microfinance.png)
 
 ### Project Overview
 
@@ -39,7 +39,7 @@ This study calculates the optimal interest rate and lending phase duration to en
 
 ## Handling Dependent Censoring in Survival Models: A Comparative Simulation Study
 
-![Dependent Censoring Study](survival analysis image.jpg)
+![](survival analysis image.jpg)
 
 ### Project Overview
 
@@ -53,7 +53,7 @@ This simulation-based project compares time-to-event models under dependent cens
 
 ## Evaluating Methods for Handling Dependent Censoring as a Missing Data Problem
 
-![Missing Data Study](missing data image.png)
+![](missing data image.png)
 
 ### Project Overview
 
