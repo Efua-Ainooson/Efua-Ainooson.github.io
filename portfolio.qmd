@@ -31,7 +31,7 @@ This project analyzes a leukemia gene expression dataset using penalized regress
 
 This study calculates the optimal interest rate and lending phase duration to ensure financial sustainability while minimizing strategic borrower defaults. It identifies the balance between institutional sustainability and client success.
 
-[Download Full Report](Microfinance Lending Interest.pdf){.btn}
+[Download Full Report](Estimation of the Lending Phase and Interest Rate in Microfinance Instituition.pdf){.btn}
 
 :::
 
