@@ -15,7 +15,7 @@ output-dir: docs
 
 ### Project Overview
 
-This simulation-based project compares time-to-event models under dependent censoring using IPCW, naive models, and likelihood-based selection/pattern mixture models—highlighting performance in terms of bias, variance, and robustness.
+This simulation based project compares time-to-event models under dependent censoring using IPCW, naive models, and likelihood based selection/pattern mixture models highlighting performance in terms of bias, variance, and robustness.
 
 [Download Full Report](Survival Analysis Project.pdf){.btn}
 
@@ -29,7 +29,7 @@ This simulation-based project compares time-to-event models under dependent cens
 
 ### Project Overview
 
-This project reframes dependent censoring as a missing not at random (MNAR) problem in survival analysis. I compared four approaches—IPCW, naive analysis, selection models, and pattern mixture models—under various dependence structures, evaluating their performance on bias and robustness.
+This project reframes dependent censoring as a missing not at random (MNAR) problem in survival analysis. I compared four approaches IPCW, naive analysis, selection models, and pattern mixture models—under various dependence structures, evaluating their performance on bias and robustness.
 
 [Download Full Report](Missing Data Project.pdf){.btn}
 
@@ -43,7 +43,7 @@ This project reframes dependent censoring as a missing not at random (MNAR) prob
 
 ### Project Overview
 
-This project analyzes a leukemia gene expression dataset using penalized regression methods—Lasso, Ridge, and Elastic Net—to identify key genes and build robust classifiers for leukemia subtypes.
+This project analyzes a leukemia gene expression dataset using penalized regression methods—Lasso, Ridge, and Elastic Net to identify key genes and build robust classifiers for leukemia subtypes.
 
 [Download Full Report](Leukemia Study.pdf){.btn}
 
