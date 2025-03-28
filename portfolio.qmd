@@ -25,7 +25,7 @@ This project analyzes a leukemia gene expression dataset using penalized regress
 
 ## Estimation of Lending Phase & Interest Rate in Microfinance
 
-![Interest Rate Study](Microfinance.jpg)
+![Interest Rate Study](Microfinance.png)
 
 ### Project Overview
 
