@@ -1,36 +1,66 @@
 ---
 title: "Portfolio Projects"
+format: html
+css: styles.css
+output-dir: docs
 ---
 
 :::{.portfolio-container}
 
 :::{.project-card}
+
 ## Comparative Study of Regularization Techniques in Logistic Regression
+
 ![Leukemia Study](leukemia 2.jpg)
+
 ### Project Overview
-The primary objective of this project is to analyze a leukemia gene expression dataset using various penalized regression methods. The analysis applies Lasso, Ridge, and Elastic Net to identify the most significant genes associated with leukemia and to develop robust logistic regression models for classifying leukemia subtypes.
+
+This project analyzes a leukemia gene expression dataset using penalized regression methods—Lasso, Ridge, and Elastic Net—to identify key genes and build robust classifiers for leukemia subtypes.
+
 [Download Full Report](Leukemia Study.pdf){.btn}
+
 :::
 
 :::{.project-card}
+
 ## Estimation of Lending Phase & Interest Rate in Microfinance
+
 ![Interest Rate Study](Microfinance.jpg)
+
 ### Project Overview
-The study calculates the optimal interest rate and lending phase duration to ensure financial sustainability and prevent strategic borrower defaults. A low interest rate results in microfinance institutions running at a loss, while a high interest rate leads to borrower defaults. This research helps strike the perfect balance.
+
+This study calculates the optimal interest rate and lending phase duration to ensure financial sustainability while minimizing strategic borrower defaults. It identifies the balance between institutional sustainability and client success.
+
 [Download Full Report](Microfinance Lending Interest.pdf){.btn}
+
 :::
 
 :::{.project-card}
+
 ## Handling Dependent Censoring in Survival Models: A Comparative Simulation Study
+
 ![Dependent Censoring Study](survival analysis image.jpg)
+
 ### Project Overview
-This project involved a comparative simulation study of time-to-event models under scenarios of dependent censoring, a common but challenging issue in clinical research.
 
-The performance of several methods including Inverse Probability of Censoring Weights (IPCW), Naive models, and likelihood-based Selection and Pattern Mixture models were evaluated.
+This simulation-based project compares time-to-event models under dependent censoring using IPCW, naive models, and likelihood-based selection/pattern mixture models—highlighting performance in terms of bias, variance, and robustness.
 
-The simulation framework, implemented in R, explored bias, variance, and model robustness under varying strengths of dependence between failure and censoring times. The findings provide insights into when and how to adjust for non-independent censoring in survival analysis.
+[Download Full Report](Survival Analysis Project.pdf){.btn}
 
-[Download Full Report](ST_625_Project(4).pdf){.btn}
+:::
+
+:::{.project-card}
+
+## Evaluating Methods for Handling Dependent Censoring as a Missing Data Problem
+
+![Missing Data Study](missing data image.png)
+
+### Project Overview
+
+This project reframes dependent censoring as a missing not at random (MNAR) problem in survival analysis. I compared four approaches—IPCW, naive analysis, selection models, and pattern mixture models—under various dependence structures, evaluating their performance on bias and robustness.
+
+[Download Full Report](Missing Data Project.pdf){.btn}
+
 :::
 
 :::
